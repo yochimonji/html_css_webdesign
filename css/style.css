@@ -277,3 +277,11 @@ a img:hover {
 #photograph .photograph-list li:nth-child(3n) {
     margin-right: 0;
 }
+
+#video {
+    background-image: url(../images/bg-video.jpg);
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-attachment: fixed;
+    background-size: 100% auto;
+}
